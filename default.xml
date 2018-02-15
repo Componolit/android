@@ -52,7 +52,7 @@
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="aosp" />
   <project path="device/google/atv" name="device/google/atv" groups="device,fugu,broadcom_pdk,generic_fs,pdk" remote="aosp" />
   <project path="device/google/contexthub" name="device/google/contexthub" groups="device,marlin,pdk" remote="aosp" />
-  <project path="device/hardkernel/odroidxu3" name="voodik/android_device_hardkernel_odroidxu3" revision="cm-14.1_5422" groups="pdk" >
+  <project path="device/hardkernel/odroidxu3" name="Componolit/bulkfuzz_lineage_device_hardkernel_odroidxu3" revision="cm-14.1_5422" groups="pdk" >
   <copyfile src="build.sh" dest="build.sh" />
   </project>
   <project path="device/sample" name="device/sample" groups="pdk" remote="aosp" />
@@ -380,7 +380,7 @@
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" groups="omap3,pdk" remote="aosp" />
   <project path="hardware/ti/omap4-aah" name="platform/hardware/ti/omap4-aah" groups="omap4-aah,pdk" remote="aosp" />
   <project path="hardware/ti/omap4xxx" name="LineageOS/android_hardware_ti_omap4xxx" groups="omap4,pdk" />
-  <project path="kernel/hardkernel/odroidxu3" name="voodik/android_kernel_hardkernel_odroidxu3_beta" revision="los-14.1_5422" />
+  <project path="kernel/hardkernel/odroidxu3" name="Componolit/android_kernel_hardkernel_odroidxu3_beta" revision="los-14.1_5422" />
   <project path="libcore" name="LineageOS/android_libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" remote="aosp" />
   <project path="ndk" name="platform/ndk" groups="generic_fs" remote="aosp" />
@@ -488,14 +488,14 @@
   <project path="system/connectivity/apmanager" name="platform/system/connectivity/apmanager" remote="aosp" />
   <project path="system/connectivity/dhcp_client" name="platform/system/connectivity/dhcp_client" remote="aosp" />
   <project path="system/connectivity/shill" name="platform/system/connectivity/shill" remote="aosp" />
-  <project path="system/core" name="voodik/android_system_core" revision="cm-14.1_5422" groups="pdk" />
+  <project path="system/core" name="Componolit/android_system_core" revision="cm-14.1_5422" groups="pdk" />
   <project path="system/extras" name="LineageOS/android_system_extras" groups="pdk" />
   <project path="system/firewalld" name="platform/system/firewalld" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
   <project path="system/keymaster" name="LineageOS/android_system_keymaster" groups="pdk" />
   <project path="system/media" name="LineageOS/android_system_media" groups="pdk" />
   <project path="system/nativepower" name="platform/system/nativepower" remote="aosp" />
-  <project path="system/netd" name="LineageOS/android_system_netd" groups="pdk" />
+  <project path="system/netd" name="Componolit/android_system_netd" groups="pdk" />
   <project path="system/nvram" name="platform/system/nvram" remote="aosp" />
   <project path="system/security" name="LineageOS/android_system_security" groups="pdk" />
   <project path="system/sepolicy" name="LineageOS/android_system_sepolicy" groups="pdk" />
