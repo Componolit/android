@@ -308,7 +308,7 @@
   <project path="external/zopfli" name="platform/external/zopfli" groups="pdk" remote="aosp" />
   <project path="external/zxing" name="platform/external/zxing" groups="pdk" remote="aosp" />
   <project path="frameworks/av" name="voodik/android_frameworks_av_new" revision="cm-14.1_5422" groups="pdk" />
-  <project path="frameworks/base" name="voodik/android_frameworks_base_new" revision="cm-14.1_5422" groups="pdk-cw-fs,pdk-fs" />
+  <project path="frameworks/base" name="Componolit/android_frameworks_base_new" revision="cm-14.1_5422" groups="pdk-cw-fs,pdk-fs" />
   <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/mclinker" name="platform/frameworks/compile/mclinker" groups="pdk" remote="aosp" />
   <project path="frameworks/compile/slang" name="platform/frameworks/compile/slang" groups="pdk" remote="aosp" />
