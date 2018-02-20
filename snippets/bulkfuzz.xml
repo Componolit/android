@@ -3,4 +3,5 @@
   <project name="Componolit/android_external_busybox" path="external/busybox" revision="cm-14.1" remote="github" />
   <project name="Componolit/nbd_android" path="external/nbd" remote="github" revision="master" />
   <project name="Componolit/bulkfuzz_lineage_vendor_extra" path="vendor/extra" remote="github" revision="master" />
+  <project name="Componolit/AppFuzzer" path="external/AppFuzzer" remote="github" revision="master" />
 </manifest>
